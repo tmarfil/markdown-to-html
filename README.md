@@ -8,7 +8,7 @@ The Node.js [**marked**](https://www.npmjs.com/package/marked) package does most
 
 ## Features
 
-- Converts GitHub Flavored Markdown to raw HTML
+- Converts GitHub Flavored Markdown to HTML
 - Transforms code blocks to use DevCentral-specific `<li-code>` elements for proper styling
 - Automatically assigns a default language (bash) to code blocks without a specified language
 - Preserves the original markdown structure and formatting
