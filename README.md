@@ -2,7 +2,7 @@
 
 ## Overview
 
-**markdown-to-html.js** is a Node.js script designed to convert [GitHub Flavored Markdown](https://github.github.com/gfm/) (GFM) to raw HTML, specifically tailored for use with [F5 DevCentral](https://community.f5.com/) technical articles. This script provides a convenient way to prepare your markdown content for publication on F5 DevCentral, ensuring that code blocks are correctly styled and rendered.
+**markdown-to-html.js** is a Node.js script designed to convert [GitHub Flavored Markdown](https://github.github.com/gfm/) (GFM) to F5-DevCentral-friendly HTML, specifically tailored for use with [F5 DevCentral](https://community.f5.com/) technical articles. This script provides a convenient way to prepare your markdown content for publication on F5 DevCentral, ensuring that code blocks are correctly styled and rendered.
 
 The Node.js [**marked**](https://www.npmjs.com/package/marked) package does most of the work under the covers.
 
